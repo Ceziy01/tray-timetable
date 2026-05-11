@@ -1,0 +1,8 @@
+PyQt6>=6.5.0
+requests>=2.31.0
+icalendar>=5.0.7
+python-dateutil>=2.8.2
+psutil>=5.9.5
+qframelesswindow>=1.0.5
+BlurWindow>=1.2.0
+pytz>=2023.3
