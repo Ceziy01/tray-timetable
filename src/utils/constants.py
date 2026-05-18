@@ -1,5 +1,3 @@
-"""Application constants"""
-
 from pathlib import Path
 
 # Application settings
